@@ -1,5 +1,5 @@
 ---
-title: "My first blog-TITLE"
+title: "Spearman's rank correlation coefficient"
 date: 2021-11-24
 ---
 My first blog: 
